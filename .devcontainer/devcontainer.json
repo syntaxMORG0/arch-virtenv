@@ -1,0 +1,10 @@
+{
+  "name": "Arch Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "postCreateCommand": "sudo ssh-keygen -A; sudo /usr/bin/sshd; echo 'Welcome to Arch Linux!'"
+}
