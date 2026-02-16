@@ -1,0 +1,169 @@
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+Usage: 
+    __main__.py [options] [source_addr:]source_port target_addr:target_port
+    __main__.py [options] --token-plugin=CLASS [source_addr:]source_port
+    __main__.py [options] --unix-target=FILE [source_addr:]source_port
+    __main__.py [options] [source_addr:]source_port -- WRAP_COMMAND_LINE
+
+__main__.py: error: Too few arguments
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+Usage: 
+    __main__.py [options] [source_addr:]source_port target_addr:target_port
+    __main__.py [options] --token-plugin=CLASS [source_addr:]source_port
+    __main__.py [options] --unix-target=FILE [source_addr:]source_port
+    __main__.py [options] [source_addr:]source_port -- WRAP_COMMAND_LINE
+
+__main__.py: error: Too few arguments
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+_XSERVTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+_XSERVTransMakeAllCOTSServerListeners: server already running
+(EE) 
+Fatal server error:
+(EE) Cannot establish any listening sockets - Make sure an X server isn't already running(EE) 
+_XSERVTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+_XSERVTransMakeAllCOTSServerListeners: server already running
+(EE) 
+Fatal server error:
+(EE) Cannot establish any listening sockets - Make sure an X server isn't already running(EE) 
+_XSERVTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+_XSERVTransMakeAllCOTSServerListeners: server already running
+(EE) 
+Fatal server error:
+(EE) Cannot establish any listening sockets - Make sure an X server isn't already running(EE) 
+_XSERVTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+_XSERVTransMakeAllCOTSServerListeners: server already running
+(EE) 
+Fatal server error:
+(EE) Cannot establish any listening sockets - Make sure an X server isn't already running(EE) 
+_XSERVTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+_XSERVTransMakeAllCOTSServerListeners: server already running
+(EE) 
+Fatal server error:
+(EE) Cannot establish any listening sockets - Make sure an X server isn't already running(EE) 
+_XSERVTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+_XSERVTransMakeAllCOTSServerListeners: server already running
+(EE) 
+Fatal server error:
+(EE) Cannot establish any listening sockets - Make sure an X server isn't already running(EE) 
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+WebSocket server settings:
+  - Listen on 0.0.0.0:6080
+  - Web server. Web root: /opt/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from 0.0.0.0:6080 to localhost:5901
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
+/opt/websockify/websockify/websocket.py:31: UserWarning: no 'numpy' module, HyBi protocol will be slower
+  warnings.warn("no 'numpy' module, HyBi protocol will be slower")
