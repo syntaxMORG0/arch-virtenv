@@ -3,9 +3,9 @@
 
 set -e
 
+
 # Install dependencies
-sudo apt update
-sudo apt install -y git python3 python3-pip websockify
+sudo pacman -Sy --noconfirm git python python-pip
 
 # Clone noVNC repository if not already present
 if [ ! -d "/opt/noVNC" ]; then

@@ -1,10 +1,4 @@
 #!/bin/bash
-# expose.sh: Exposes ports for remote access (example for Docker)
+# expose.sh: No longer needed for pyngrok or tunnels; just a placeholder for port 6080 info
 
-set -e
-
-# Example: Expose port 6080 for noVNC
-# In Docker, this would be handled by EXPOSE in Dockerfile or -p flag
-# Here, just a placeholder
-
-echo "Port 6080 exposed for noVNC access."
+echo "Port 6080 is exposed for noVNC access via Codespaces public URL."

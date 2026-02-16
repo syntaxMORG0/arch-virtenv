@@ -3,7 +3,6 @@
 
 set -e
 
-sudo apt update
-sudo apt install -y curl wget git nano unzip zip
+sudo pacman -Sy --noconfirm curl wget git nano unzip zip
 
 echo "Utility packages installation complete."
